@@ -296,7 +296,7 @@ This project was refactored to demonstrate production ML best practices, elimina
 
 **Abhishek Subramani**
 - Email: abhishek.subramani@su.suffolk.edu
-- LinkedIn: [Your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/abhisheksubramani/
 - GitHub: https://github.com/Abu-249607
 
 Project Link: [https://github.com/Abu-249607/churn-prediction](https://github.com/Abu-249607/churn-prediction)
